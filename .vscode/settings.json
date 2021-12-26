@@ -1,0 +1,13 @@
+{
+  // Set the default
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": false,
+  "git.enableCommitSigning": false,
+  "gitflow4code.features": [
+    {
+      "name": "feature/hj",
+      "base": "featfeat"
+    }
+  ]
+}
